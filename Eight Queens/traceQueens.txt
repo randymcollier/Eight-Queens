@@ -1,0 +1,308 @@
+Now attempting solution from column 0. 
+Placing queen at [0, 0]. 
+Now attempting solution from column 1. 
+Placing queen at [2, 1]. 
+Now attempting solution from column 2. 
+Placing queen at [4, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [3, 4]. 
+Queen cannot be placed at [1, 3]. 
+Placing queen at [6, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [3, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [5, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [5, 6]. 
+Queen cannot be placed at [3, 5]. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [3, 4]. 
+Queen cannot be placed at [6, 3]. 
+Placing queen at [7, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [3, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [5, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [5, 6]. 
+Queen cannot be placed at [3, 5]. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [3, 4]. 
+Queen cannot be placed at [7, 3]. 
+Queen cannot be placed at [4, 2]. 
+Placing queen at [5, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [6, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [6, 4]. 
+Placing queen at [7, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [7, 4]. 
+Queen cannot be placed at [1, 3]. 
+Queen cannot be placed at [5, 2]. 
+Placing queen at [6, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [3, 4]. 
+Placing queen at [7, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [7, 4]. 
+Queen cannot be placed at [1, 3]. 
+Placing queen at [7, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [1, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [1, 5]. 
+Queen cannot be placed at [3, 4]. 
+Queen cannot be placed at [7, 3]. 
+Queen cannot be placed at [6, 2]. 
+Placing queen at [7, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [3, 4]. 
+Placing queen at [6, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [6, 4]. 
+Queen cannot be placed at [1, 3]. 
+Placing queen at [5, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [1, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [4, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [4, 6]. 
+Queen cannot be placed at [1, 5]. 
+Queen cannot be placed at [3, 4]. 
+Queen cannot be placed at [5, 3]. 
+Queen cannot be placed at [7, 2]. 
+Queen cannot be placed at [2, 1]. 
+Placing queen at [3, 1]. 
+Now attempting solution from column 2. 
+Placing queen at [1, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [4, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [2, 4]. 
+Queen cannot be placed at [4, 3]. 
+Placing queen at [6, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [7, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [7, 5]. 
+Queen cannot be placed at [2, 4]. 
+Queen cannot be placed at [6, 3]. 
+Placing queen at [7, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [6, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [6, 5]. 
+Queen cannot be placed at [2, 4]. 
+Placing queen at [5, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [2, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [2, 5]. 
+Queen cannot be placed at [5, 4]. 
+Queen cannot be placed at [7, 3]. 
+Queen cannot be placed at [1, 2]. 
+Placing queen at [5, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [2, 3]. 
+Now attempting solution from column 4. 
+Queen cannot be placed at [2, 3]. 
+Queen cannot be placed at [5, 2]. 
+Placing queen at [6, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [2, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [5, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [1, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [4, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [4, 6]. 
+Queen cannot be placed at [1, 5]. 
+Queen cannot be placed at [5, 4]. 
+Queen cannot be placed at [2, 3]. 
+Placing queen at [4, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [2, 4]. 
+Queen cannot be placed at [4, 3]. 
+Placing queen at [7, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [4, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [1, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [1, 6]. 
+Queen cannot be placed at [4, 5]. 
+Queen cannot be placed at [2, 4]. 
+Placing queen at [5, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [1, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [1, 5]. 
+Placing queen at [2, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [2, 5]. 
+Queen cannot be placed at [5, 4]. 
+Queen cannot be placed at [7, 3]. 
+Queen cannot be placed at [6, 2]. 
+Placing queen at [7, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [2, 3]. 
+Now attempting solution from column 4. 
+Queen cannot be placed at [2, 3]. 
+Placing queen at [4, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [1, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [1, 4]. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Queen cannot be placed at [2, 4]. 
+Queen cannot be placed at [4, 3]. 
+Queen cannot be placed at [7, 2]. 
+Queen cannot be placed at [3, 1]. 
+Placing queen at [4, 1]. 
+Now attempting solution from column 2. 
+Placing queen at [1, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [5, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [6, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [3, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [3, 6]. 
+Queen cannot be placed at [6, 5]. 
+Placing queen at [7, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [3, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [3, 6]. 
+Queen cannot be placed at [7, 5]. 
+Queen cannot be placed at [2, 4]. 
+Queen cannot be placed at [5, 3]. 
+Queen cannot be placed at [1, 2]. 
+Placing queen at [6, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [7, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [7, 5]. 
+Queen cannot be placed at [3, 4]. 
+Placing queen at [5, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [2, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [2, 5]. 
+Queen cannot be placed at [5, 4]. 
+Placing queen at [7, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [2, 5]. 
+Now attempting solution from column 6. 
+Queen cannot be placed at [2, 5]. 
+Queen cannot be placed at [7, 4]. 
+Queen cannot be placed at [1, 3]. 
+Queen cannot be placed at [6, 2]. 
+Placing queen at [7, 2]. 
+Now attempting solution from column 3. 
+Placing queen at [1, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [3, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [6, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [2, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [2, 6]. 
+Queen cannot be placed at [6, 5]. 
+Queen cannot be placed at [3, 4]. 
+Placing queen at [6, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [2, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [5, 6]. 
+Now attempting solution from column 7. 
+Queen cannot be placed at [5, 6]. 
+Queen cannot be placed at [2, 5]. 
+Queen cannot be placed at [6, 4]. 
+Queen cannot be placed at [1, 3]. 
+Placing queen at [5, 3]. 
+Now attempting solution from column 4. 
+Placing queen at [2, 4]. 
+Now attempting solution from column 5. 
+Placing queen at [6, 5]. 
+Now attempting solution from column 6. 
+Placing queen at [1, 6]. 
+Now attempting solution from column 7. 
+Placing queen at [3, 7]. 
+Summary statistics: number of backtracks = 97, number of comparisons = 8895. 
